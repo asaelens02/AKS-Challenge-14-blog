@@ -24,6 +24,9 @@ ashleysaelens0@yahoo.com
 
 github repo: https://github.com/asaelens02/AKS-Challenge-14-blog 
 
+video link displaying errors: https://drive.google.com/file/d/1g9jICTqJuUIblaeL2fhSsfi-wmuLFfwS/view
+
+
 
 ## Issues:
 
